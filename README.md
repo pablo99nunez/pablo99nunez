@@ -1,7 +1,7 @@
 # 💫About Me :
-Actualmente, estoy en busqueda de iniciarme en el mundo laboral del IT.
-Después de muchos intentos fallidos buscando una carrera que realmente me guste, encontré la programación y desde entonces no he parado de aprender cosas nuevas todos los días.
-Si te gusta mi perfil, por favor contactame!
+At the moment, I'm looking to take my my first steps on the IT world.
+After many failed attempts of finding a career that I really like, I found programming. Since then I never stopped learning new things every single day.
+If you like my profile, please contact me!
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pablo99nunez/) 
